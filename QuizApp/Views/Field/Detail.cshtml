@@ -1,0 +1,19 @@
+﻿@model IEnumerable<QuizData.Models.Test>
+
+
+<div class="container d-flex flex-wrap">
+
+    @foreach (var item in Model)
+    {
+
+        <div class="card" style="width: 18rem;">
+            <div class="card-body">
+                <h5 class="card-title">@item.SubjectName</h5>
+                <p class="card-text">@item.Description</p>
+                <a href="/test/Detail/@item.Id" class="btn btn-info">Start test</a>
+                <br />
+            </div>
+        </div>
+    }
+
+</div> 

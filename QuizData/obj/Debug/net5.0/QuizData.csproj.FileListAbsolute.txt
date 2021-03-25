@@ -1,0 +1,15 @@
+C:\Users\adria\source\repos\vs2019\QuizApp\QuizData\bin\Debug\net5.0\QuizData.deps.json
+C:\Users\adria\source\repos\vs2019\QuizApp\QuizData\bin\Debug\net5.0\QuizData.runtimeconfig.json
+C:\Users\adria\source\repos\vs2019\QuizApp\QuizData\bin\Debug\net5.0\QuizData.runtimeconfig.dev.json
+C:\Users\adria\source\repos\vs2019\QuizApp\QuizData\bin\Debug\net5.0\QuizData.dll
+C:\Users\adria\source\repos\vs2019\QuizApp\QuizData\bin\Debug\net5.0\ref\QuizData.dll
+C:\Users\adria\source\repos\vs2019\QuizApp\QuizData\bin\Debug\net5.0\QuizData.pdb
+C:\Users\adria\source\repos\vs2019\QuizApp\QuizData\obj\Debug\net5.0\QuizData.csprojAssemblyReference.cache
+C:\Users\adria\source\repos\vs2019\QuizApp\QuizData\obj\Debug\net5.0\QuizData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\source\repos\vs2019\QuizApp\QuizData\obj\Debug\net5.0\QuizData.AssemblyInfoInputs.cache
+C:\Users\adria\source\repos\vs2019\QuizApp\QuizData\obj\Debug\net5.0\QuizData.AssemblyInfo.cs
+C:\Users\adria\source\repos\vs2019\QuizApp\QuizData\obj\Debug\net5.0\QuizData.csproj.CoreCompileInputs.cache
+C:\Users\adria\source\repos\vs2019\QuizApp\QuizData\obj\Debug\net5.0\QuizData.dll
+C:\Users\adria\source\repos\vs2019\QuizApp\QuizData\obj\Debug\net5.0\ref\QuizData.dll
+C:\Users\adria\source\repos\vs2019\QuizApp\QuizData\obj\Debug\net5.0\QuizData.pdb
+C:\Users\adria\source\repos\vs2019\QuizApp\QuizData\obj\Debug\net5.0\QuizData.genruntimeconfig.cache
